@@ -1,0 +1,140 @@
+/*
+---------------------------------------------
+Login
+---------------------------------------------
+*/
+
+.nav-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    height: 70px;
+    padding: 0 15px;
+}
+.nav-header .nav-top {
+    display: flex;
+    align-items: center;
+}
+.nav-header .nav-top a .logo-text {
+    line-height: 70px;
+}
+.line-height-1{
+    line-height: 1;
+}
+.display1-size {
+    font-size: 36px!important;
+}
+.font {
+    font-size: 32px!important;
+    letter-spacing: 1px;
+}
+.rounded-xl {
+    border-radius: 30px!important;
+     padding: 12px 0px;
+}
+.w100 {
+    width: 100px!important;
+}
+.bg-no-repeat {
+    background-repeat: no-repeat;
+}
+.bg-image-cover {
+    background-size: cover;
+    height: 100vh;
+}
+.login-card {
+    max-width: 340px;
+}
+.ms-auto {
+    margin-left: auto!important;
+}
+.me-auto {
+    margin-right: auto!important;
+}
+.fw-700 {
+    font-weight: 700!important;
+}
+.size {
+    font-size: 30px!important;
+}
+.form-group.icon-input {
+    position: relative;
+}
+.form-group.icon-input i {
+    position: absolute;
+    left: 15px;
+    top: 18px;
+}
+.font-sm {
+    font-size: 16px!important;
+}
+.form-group .style2-input {
+    height: 50px;
+    line-height: 50px;
+    display: block;
+    border: 2px #eee solid;
+    border-radius: 7px;
+}
+.ps-2 {
+    padding-left: 2.5rem!important;
+}
+.form-check-input[type=checkbox] {
+    border-radius: .25em;
+}
+.form-check .form-check-input {
+    float: left;
+    margin-left: -1.5em;
+}
+.mt-2 {
+    margin-top: .5rem!important;
+}
+.form-check-input {
+    width: 1em;
+    height: 1em;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.25);
+    appearance: none;
+}
+.fw-600 {
+    font-weight: 600!important;
+}
+.text-grey-700 {
+    color: #495057!important;
+}
+.text-grey-500 {
+    color: #adb5bd!important;
+}
+.font-xsss {
+    font-size: 14px!important;
+}
+.lh-32 {
+    line-height: 18px;
+}
+.ms-1 {
+    margin-left: .25rem!important;
+}
+.bg-facebook {
+    background-color: #0d66ff!important;
+}
+a {
+    text-decoration: none!important;
+    outline: 0;
+}
+.ms-2 {
+    margin-left: .5rem!important;
+}
+
+.mb-1 {
+    margin-bottom: .25rem!important;
+}
+.me-5 {
+    margin-right: 2rem!important;
+}
+.w40 {
+    width: 40px!important;
+}
+.bg-twiiter {
+    background-color: #3b5999!important;
+}
