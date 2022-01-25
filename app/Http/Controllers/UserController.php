@@ -134,8 +134,7 @@ class UserController extends Controller
                         'message'=> 'Record already exist',
                     ];
                 }
-
-
+                return $response;
             }
             return redirect()->back();
         }else{
